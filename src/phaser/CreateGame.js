@@ -2,16 +2,14 @@ import Phaser from "phaser";
 import PlayGame from "./PlayGame";
 
 export class CreateGame extends Phaser.Game {
-  constructor() {
+  constructor(height, width) {
     const config = {
       type: Phaser.AUTO,
       parent: "phaser-container",
-      width: 1504,
-      height: 896,
-
+      width: width,
+      height: height,
       scene: [PlayGame],
     };
     super(config);
   }
 }
-const game = new Phaser.Game(config);
