@@ -4,7 +4,7 @@ function RenderPhaser() {
   useEffect(() => {
     const height = window.innerHeight;
     const width = window.innerWidth;
-    new CreateGame(height, width);
+    new CreateGame();
   }, []);
   return <div id="phaser-container"></div>;
 }
