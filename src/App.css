@@ -1,0 +1,22 @@
+.Main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+.Links-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Home-page-link {
+  cursor: pointer;
+  padding: 3px;
+  text-decoration: none;
+}
+.Instructions-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
