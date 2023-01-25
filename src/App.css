@@ -20,3 +20,7 @@
   flex-direction: column;
   align-items: flex-start;
 }
+body {
+  margin:0px;
+}
+
