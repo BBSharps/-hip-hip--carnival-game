@@ -1,9 +1,17 @@
+.Main {
+  max-height: auto;
+}
 .Main-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 600px;
+  font-size: 90px;
+  width: 100vw;
+}
+.Game-title {
+  color: #633fab;
 }
 .Links-container {
   display: flex;
@@ -14,9 +22,43 @@
   cursor: pointer;
   padding: 3px;
   text-decoration: none;
+  color: #ab3fab;
+}
+.Home-page-link:hover {
+  text-shadow: 2px 2px 4px #000000;
 }
 .Instructions-menu {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-right: 90px;
+  margin-top: 90px;
+}
+.Instructions-link {
+  color: #ab3f63;
+  text-decoration: none;
+  font-size: 50px;
+  width: 200px;
+  cursor: pointer;
+  padding-bottom: 50px;
+}
+.Instructions-link:hover {
+  color: #d66088;
+  text-shadow: 2px 2px 4px #000000;
+}
+.Instructions-title {
+  font-size: 100px;
+  text-align: center;
+  color: #ab3fab;
+  text-shadow: 2px 2px 4px #000000;
+}
+.Instructions-parts {
+  display: flex;
+  margin: 50px;
+}
+.Instructions-content {
+  font-size: 30px;
+  margin: 0;
+  align-self: center;
+  text-align: center;
 }

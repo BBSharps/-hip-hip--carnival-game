@@ -12,15 +12,25 @@ export default function Instructions() {
   }, [part]);
 
   return (
-    <main>
-      <h1>Game Instructions</h1>
-      <section className="Instructions-menu">
-        <Link to="/instructions/01"> Part 1</Link>
-        <Link to="/instructions/02"> Part 2</Link>
-        <Link to="/instructions/03"> Part 3</Link>
-        <Link to="/instructions/04"> Part 4</Link>
-      </section>
-      <p>{instructions}</p>
+    <main className="Main">
+      <h1 className="Instructions-title">Game Instructions</h1>
+      <div className="Instructions-parts">
+        <section className="Instructions-menu">
+          <Link to="/instructions/01" className="Instructions-link">
+            Part 1
+          </Link>
+          <Link to="/instructions/02" className="Instructions-link">
+            Part 2
+          </Link>
+          <Link to="/instructions/03" className="Instructions-link">
+            Part 3
+          </Link>
+          <Link to="/instructions/04" className="Instructions-link">
+            Part 4
+          </Link>
+        </section>
+        <p className="Instructions-content">{instructions}</p>
+      </div>
     </main>
   );
 }
