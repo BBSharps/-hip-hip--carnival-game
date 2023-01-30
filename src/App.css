@@ -63,6 +63,19 @@
   text-align: center;
 }
 body {
-  margin:0px;
+  margin: 0px;
 }
+.Back-home-btn {
+  float: right;
+  margin-right: 90px;
+  font-size: 25px;
+  cursor: pointer;
+  border-radius: 10px;
+  border-color: gray;
+  background-color: #3fab87;
 
+  padding: 5px;
+}
+.Back-home-btn:hover {
+  text-shadow: 2px 2px 4px #e8f4e2;
+}
