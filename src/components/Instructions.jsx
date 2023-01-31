@@ -29,8 +29,12 @@ export default function Instructions() {
             Part 4
           </Link>
         </section>
+
         <p className="Instructions-content">{instructions}</p>
       </div>
+      <Link to="/">
+        <button className="Back-home-btn">Back to home</button>
+      </Link>
     </main>
   );
 }
