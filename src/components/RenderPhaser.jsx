@@ -5,7 +5,6 @@ function RenderPhaser() {
   return (
     <iframe
       src="https://battle-mage.netlify.app/"
-      // srcDoc="<p>Loading ...</p>"
       name="Carnival-Conduct-Play"
       sandbox="allow-scripts"
       title="Carnival-Conduct-Play-Game"
