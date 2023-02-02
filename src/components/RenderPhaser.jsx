@@ -4,9 +4,8 @@ console.log(height, width);
 function RenderPhaser() {
   return (
     <iframe
-      src="https://battle-mage.netlify.app/"
+      src="https://carnival-conduct-game.netlify.app/"
       name="Carnival-Conduct-Play"
-      sandbox="allow-scripts"
       title="Carnival-Conduct-Play-Game"
       width={width}
       height={height}
