@@ -5,7 +5,7 @@ A Project combining Phaser 3 and React to create a browser game and it's main me
 ### Phaser
 The Phaser portion the this project is at https://github.com/ZeusLGR/hip-hip-array-carnival-conduct-phaser
 
-It is hosted at
+It is hosted at https://carnival-conduct-game.netlify.app
 
 The Phaser portin is imported into the React in an Iframe to combine them as one cohisive site.
 
@@ -13,7 +13,7 @@ The Phaser portin is imported into the React in an Iframe to combine them as one
 ### React
 The React portion the this project is at https://github.com/BBSharps/hip-hip-array-carnival-conduct-react
 
-It is hosted at
+It is hosted at https://carnival-conduct.netlify.app/
 
 
 ### Testing 
