@@ -1,10 +1,10 @@
 {
   "instructions": {
     "parts": {
-      "01": "When starting Cornival Conduct you will be given 500 coins to start you verry owne carnival. click on one of the buildable squares and create your first stand. You will have a selection of 3 types to chose from. Attractions: the best for attracting visitors but produce the least revenue. Prize Stall: average at generating both visitors and coins. Confectionary: which attract the least visitors but generate the highest coins. ",
-      "02": "Once you have chosen you firs Stand it will begin to generate coins and visitors. Click on your stand to see how its doing. Stands have a built in coins maximum which they will reach, make sure to check in regularaly to cash in your coins and move them into your total coins. Stands also have a maintenance value wich will decrease over time and reduce the ammout of coins and visitors that this stand generates. You can pay from your total coins to fix your stand or leave it untill you wish to pay to fix it. Be carful with maintenance as a ride will shut down when it reaches 0%.",
-      "03": "The game lasts for 10 minutes. Run your carnival; build some Stands to generate more coins to build more Stands and try attract and many visitors as possible before the time is up.",
-      "04": "Good luck"
+      "01": "When starting Cornival Conduct, you will be given 1000 coins to build your very own carnival. Click on one of the buildable squares and create your first stand. You will have a selection of 3 stand types to choose from. Attractions: the best for attracting visitors, but produce the least revenue. Prize Stalls: average at generating both visitors and coins. Confectionary: the best for generating revenue, but attract the least visitors.",
+      "02": "Once you have chosen your first stand it will begin to generate coins and visitors. Click on your stand to see how it's doing. Stands have a built-in 'coins maximum'. Make sure to check in regularly to bank your coins and move them into your total coins stash. Stands also have a 'maintenance' value which will decrease over time and reduce the amount of coins and visitors it generates in the process. You can use your coins to pay for repairs on your stand at any time - but be careful with this, as a stand will shut down when it reaches 0% maintenance.",
+      "03": "The game can last for up to 10 minutes. Run your carnival, build stands, generate coins to maintain and expand your range of stands, and try to attract as many visitors as possible before the time is up.",
+      "04": "Good luck!"
     }
   }
 }
