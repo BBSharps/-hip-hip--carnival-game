@@ -79,3 +79,14 @@ body {
 .Back-home-btn:hover {
   text-shadow: 2px 2px 4px #e8f4e2;
 }
+.render{
+  height: 99vh;
+}
+iframe{
+  border-width: 0px;
+  
+}
+.containRender{
+  display: flex;
+  justify-content: center;
+}
